@@ -1,0 +1,34 @@
+# Project Title:
+*Insert the project name*
+
+## Project Description:
+*A brief description of the project, including goals, target audience, and expected benefits.*
+
+## Current Architecture:
+### Backend:
+*Describe the current backend architecture, including programming languages, frameworks, databases, integrated external services, and any other relevant components.*
+
+### Frontend:
+*Describe the current frontend architecture, including programming languages, frameworks, libraries used, design patterns, and any other relevant components.*
+
+## Specifications for the New Feature/Project:
+*Provide detailed specifications of the new feature or project to be implemented, including functional and non-functional requirements, user flows, and expected interactions with the existing system.*
+
+## Integration with Existing Infrastructure:
+- **Location within the Current Infrastructure:** *Specify whether the new feature/project will be integrated into a specific part of the existing infrastructure or if it will be a completely new module.*
+
+- **Reusing Components:** *Identify existing components that can be reused in the development of the new feature/project, including libraries, modules, APIs, and other resources.*
+
+- **Need for New Installations:** *List any new tools, libraries, frameworks, or services that will need to be installed or acquired for the development and implementation of the new feature/project.*
+
+## Additional Comments:
+*Space for any additional observations or considerations relevant to the understanding, development, and implementation of the new feature/project.*
+
+---
+
+**Filling Instructions:**
+- Replace all fields started with * with specific information about the project.
+- Be as detailed as possible in describing the current components and the specifications for the new feature/project to ensure a clear understanding of the requirements and necessary integration.
+- Consult the technical team to ensure that all technical information is correct and complete.
+- Review the filled template with project stakeholders to align expectations and requirements.
+
